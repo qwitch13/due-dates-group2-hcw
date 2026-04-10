@@ -1,6 +1,6 @@
 # Priorities - Group 2 SS2026 (as of 10.04.2026)
 
-## URGENT (this week, 10.04 - 16.04)
+## this week, 10.04 - 16.04
 
 ### 1. Datenbanken - Projektabgabe Teil 1+2 (16.04.2026)
 - **ER-Entwurf (PRJ1)**: Prepare ER diagram on paper (A3/A4), labeled with group number + names
@@ -53,7 +53,7 @@
 
 ---
 
-## MEDIUM May
+## May
 
 ### 13. 2nd Presentations (06.05.2026) - DOUBLE DAY
 - **Prof. Presentations 2nd Praesentation** (A.1.05): 12-15 min/group, min 3 min/student, 18 points
