@@ -1,0 +1,255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Group2 SS2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Group 2 - SS2026 Reminders
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260411
+SUMMARY:[PREP] Web Technologies Lab (13.04. 14:00-17:15)
+DESCRIPTION:Prepare for Web Technologies Gruppe 2 session on 13.04.2026\nOnline (Zoom)
+UID:prep-web-g2-4@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260412
+SUMMARY:[PREP] Network Applications Lab (14.04. 09:45-12:00)
+DESCRIPTION:Prepare for Network Applications Gruppe 2 session on 14.04.2026\nOnline
+UID:prep-neta-g2-3@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T130000
+DTEND:20260416T171500
+SUMMARY:[PROJECT] Datenbanken - PRJ1 ER + PRJ2 Rel. Schema Abgabe
+LOCATION:A.1.17 Lehrsaal
+DESCRIPTION:Projektabgabe Teil 1 (ER-Entwurf) und Teil 2 (Relationales Schema)\nKleingruppe Grp2\nLecturers: K. Goeschka
+UID:db-g2-2-project@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260418
+SUMMARY:[PREP] Datenbanken Lab (20.04. 14:00-17:15)
+DESCRIPTION:Prepare for Datenbanken Gruppe 2 session on 20.04.2026\nOnline (Zoom)
+UID:prep-db-g2-3@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+SUMMARY:[PREP] Web Technologies Lab (21.04. 09:45-13:00)
+DESCRIPTION:Prepare for Web Technologies Gruppe 2 session on 21.04.2026\nOnline (Zoom)
+UID:prep-web-g2-5@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260420
+SUMMARY:[PREP] Prof. Presentations Exercise (22.04. 09:45-13:00)
+DESCRIPTION:Prepare for Professional Presentations Gruppe 2 exercise on 22.04.2026\nA.1.17 Lehrsaal
+UID:prep-pres-g2-3@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260420
+SUMMARY:[PREP] Mathematik 2 UE (22.04. 14:00-17:15)
+DESCRIPTION:Prepare for Mathematik 2 UE Gruppe 2 session on 22.04.2026\nA.1.17 Lehrsaal
+UID:prep-m2ue-g2-4@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+SUMMARY:[PREP] Mathematik 2 UE (27.04. 09:45-13:00)
+DESCRIPTION:Prepare for Mathematik 2 UE Gruppe 2 session on 27.04.2026\nOnline
+UID:prep-m2ue-g2-5@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260426T235900
+DTEND:20260426T235900
+SUMMARY:[DEADLINE] NETA 2nd Lab Assignment
+DESCRIPTION:Submit on https://neta.hcw.ac.at
+UID:neta-lab2-deadline@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+SUMMARY:[PREP] Programmierung 2 Lab (28.04. 14:00-17:15)
+DESCRIPTION:Prepare for Programmierung 2 Gruppe 2 session on 28.04.2026\nOnline (Zoom)
+UID:prep-prog2-g2-2@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260427
+SUMMARY:[PREP] Prof. Presentations Exercise (29.04. 14:00-15:30)
+DESCRIPTION:Prepare for Professional Presentations Gruppe 2 exercise on 29.04.2026\nA.1.03 Lehrsaal
+UID:prep-pres-g2-4@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T140000
+DTEND:20260506T171500
+SUMMARY:[PRESENTATION] Prof. Presentations - 2nd Praesentation
+LOCATION:A.1.05 Lehrsaal
+DESCRIPTION:2. Praesentation\nLecturer: J. Wirgler\nDuration: 12-15 min per group\, min 3 min per student
+UID:pres-g2-5-present@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T140000
+DTEND:20260506T171500
+SUMMARY:[PRESENTATION] Web Technologies - 2nd Praesentation
+LOCATION:A.1.17 Lehrsaal
+DESCRIPTION:2. Praesentation\nLecturers: P. Jaeger\, G. Mansky-Kummert
+UID:web-g2-6-present@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260511
+SUMMARY:[PREP] Mathematik 2 UE (13.05. 14:00-17:15)
+DESCRIPTION:Prepare for Mathematik 2 UE Gruppe 2 session on 13.05.2026\nOnline
+UID:prep-m2ue-g2-6@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260516
+SUMMARY:[PREP] Programmierung 2 Lab (18.05. 09:45-13:00)
+DESCRIPTION:Prepare for Programmierung 2 Gruppe 2 session on 18.05.2026\nOnline (Zoom)
+UID:prep-prog2-g2-3@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260516
+SUMMARY:[PREP] Web Technologies Lab (18.05. 14:00-17:15)
+DESCRIPTION:Prepare for Web Technologies Gruppe 2 session on 18.05.2026\nOnline (Zoom)
+UID:prep-web-g2-7@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T154500
+DTEND:20260520T171500
+SUMMARY:[EXAM] Network Applications - Vorlesung
+LOCATION:F.E.01 Audimax
+DESCRIPTION:Pruefung\nLecturers: K. Szabo\, B. Taufner
+UID:neta-vo-7-exam@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T140000
+DTEND:20260526T171500
+SUMMARY:[TEST] Datenbanken - Schriftlicher Test 1. Antritt
+LOCATION:TBD
+DESCRIPTION:A-L: 14:00-15:30\nM-Z: 15:45-17:15\n5 Fragen aus Fragenkatalog GRUN-SQL2\n75 Min\, keine Unterlagen
+UID:db-test1@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260528
+SUMMARY:[PREP] Programmierung 2 Lab (30.05. 09:45-11:15)
+DESCRIPTION:Prepare for Programmierung 2 Gruppe 2 session on 30.05.2026
+UID:prep-prog2-g2-4@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260530T235900
+DTEND:20260530T235900
+SUMMARY:[DEADLINE] NETA 4th Lab Protocol Submission
+DESCRIPTION:Submit 4th lab protocol on Moodle
+UID:neta-proto4-deadline@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260530
+SUMMARY:[PREP] Programmierung 2 Lab (01.06. 14:00-17:15)
+DESCRIPTION:Prepare for Programmierung 2 Gruppe 2 session on 01.06.2026\nOnline (Zoom)
+UID:prep-prog2-g2-5@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260531
+SUMMARY:[PREP] Network Applications Lab (02.06. 14:00-16:15)
+DESCRIPTION:Prepare for Network Applications Gruppe 2 session on 02.06.2026\nOnline
+UID:prep-neta-g2-4@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260601T113000
+DTEND:20260601T130000
+SUMMARY:[EXAM] Mathematik 2 VO
+LOCATION:F.E.01 Audimax
+DESCRIPTION:Pruefung\nLecturer: C. Steineder
+UID:m2vo-7-exam@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260601T235900
+DTEND:20260601T235900
+SUMMARY:[DEADLINE] NETA 4th Protocol Peer-Review
+DESCRIPTION:Peer-review deadline for 4th lab protocol
+UID:neta-proto4-review@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260607T235900
+DTEND:20260607T235900
+SUMMARY:[DEADLINE] NETA 3rd Lab Assignment
+DESCRIPTION:Submit on https://neta.hcw.ac.at
+UID:neta-lab3-deadline@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260608
+SUMMARY:[PREP] Network Applications Lab (10.06. 11:30-13:00)
+DESCRIPTION:Prepare for Network Applications Gruppe 2 session on 10.06.2026\nOnline
+UID:prep-neta-g2-5@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260609T140000
+DTEND:20260609T153000
+SUMMARY:[EXAM] Programmierung 2 - Vorlesung
+LOCATION:F.E.01 Audimax
+DESCRIPTION:Pruefung\nLecturers: L. Freudenthaler\, P. Jaeger
+UID:prog2-vo-5-exam@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260615T094500
+DTEND:20260615T130000
+SUMMARY:[EXAM] Web Technologies - Gruppe 2
+LOCATION:A.1.17 Lehrsaal
+DESCRIPTION:Pruefung\nLecturers: P. Jaeger\, G. Mansky-Kummert
+UID:web-g2-8-exam@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T140000
+DTEND:20260616T171500
+SUMMARY:[TEST] Datenbanken - Schriftlicher Test 2. Antritt
+LOCATION:TBD
+DESCRIPTION:Wiederholungstermin\nA-L: 14:00-15:30\nM-Z: 15:45-17:15
+UID:db-test2@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T235900
+DTEND:20260616T235900
+SUMMARY:[DEADLINE] NETA 4th Lab Assignment
+DESCRIPTION:Submit on https://neta.hcw.ac.at
+UID:neta-lab4-deadline@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260620
+SUMMARY:[PREP] Datenbanken Praktische Uebung (22.06. 14:00-17:15)
+DESCRIPTION:Prepare for Datenbanken Praktische Uebung on 22.06.2026\nOnline (Zoom)
+UID:prep-db-g2-4@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260621T235900
+DTEND:20260621T235900
+SUMMARY:[DEADLINE] PRES 2nd Presentation Slides Upload
+DESCRIPTION:Upload slides to Moodle Studierenden Ordner
+UID:pres-slides2-deadline@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260622T235900
+DTEND:20260622T235900
+SUMMARY:[DEADLINE] Datenbanken - SQL Queries (PRJ3) fertig
+DESCRIPTION:SQL Aufgaben muessen 1 Woche vor Abgabe fertig sein
+UID:db-sql-deadline@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260625T140000
+DTEND:20260625T171500
+SUMMARY:[EXAM] Network Applications - Gruppe 2
+LOCATION:B.1.24 Netzwerklabor
+DESCRIPTION:Pruefung\nLecturers: P. Krebs\, K. Szabo\, B. Taufner
+UID:neta-g2-6-exam@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260629T130000
+DTEND:20260629T171500
+SUMMARY:[PROJECT] Datenbanken - PRJ3 SQL + PRJ4 Web-App Abgabe
+LOCATION:A.1.17 Lehrsaal
+DESCRIPTION:Projektabgabe Teil 3 (SQL Statements) und Teil 4 (DB-Web-Applikation)\nKleingruppe Grp1+Grp2\nLecturer: L. Froihofer\nLaptop mitbringen!
+UID:db-g2-5-project@group2-ss2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260629T130000
+DTEND:20260629T171500
+SUMMARY:[EXAM] Datenbanken - Gruppe 2
+LOCATION:A.1.17 Lehrsaal
+DESCRIPTION:Pruefung\nLecturers: L. Froihofer\, K. Goeschka
+UID:db-g2-5-exam@group2-ss2026
+END:VEVENT
+END:VCALENDAR
